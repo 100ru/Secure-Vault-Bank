@@ -1,6 +1,23 @@
-# 1. Overview:
-This is a Bank Management System project implemented in Java using Swing for the graphical user interface (GUI) and MySQL as the backend database. The system allows banks to manage customer accounts, process transactions, and generate reports.
+# Table of Content.
+.Project Overview
+.Secure Vault
+.Features
+.Technologies Used
+.Project Structure
+.Installation & set up
+.Usage
+.Screenshots
+.Contributing
+.License
+.Roadmap
+.Acknowledgments
 
+
+# 1.Project Overview:
+  The Bank Management System is a desktop application developed in Java using the Swing framework for the graphical user interface and SQL for database management. This system allows bank administrators to 
+  efficiently manage customer accounts, handle transactions, generate reports, and ensure secure operations. It aims to simplify banking operations, enhance data security, and provide a user-friendly interface 
+  for both administrators and customers.
+ 
 # 2.Secure Vault Bank:
 "Secure Valut Bank System is designed to manage the daily operation of a bank , including account management , transactions, customer support, and financial reporting.
 This system ensures security, efficiency, and ease of access for bank employees and customers". This Valut Bank System is a simple, efficient, and user-friendly platform 
@@ -67,12 +84,17 @@ Add the MySQL Connector/J to the classpath (if not using Maven).
 Run the Main class to start the application.
 
 # 8.Usage
-Add Customer: Enter customer details and click "Add Customer."
-Perform Transaction: Choose between deposit, withdrawal, or transfer and complete the process.
-View Transaction History: Click on "View History" to see account transactions.
-
+  1.Launch the Application -Run the Jar or Execute the Main class in your IDE.
+ 2.Login
+    .Administrator:
+    .Username🏸admin
+    .Password:
+    .Customer: -Use thecredential createntials created during account setup.
+ 3.Navigate the Dashboard
+   .Admin Panel:
+   .Manage account details, perform
 # 9.Screenshots
-You can add relevant screenshots of your application here.
+ You can add relevant screenshots of your application here.
 Future Enhancements
 Implement user authentication for bank employees.
 Add loan and credit card management features.
